@@ -1,0 +1,8 @@
+[2024-09-14 19:08:02.439103] [info]: - : Attempting to open configuration file
+[2024-09-14 19:08:02.439131] [error]: - : Error occue in opeing configuration file
+[2024-09-14 19:08:02.439519] [info]: - : Default configuration file created.
+[2024-09-14 19:08:02.439685] [info]: - : Configuration file opened successfully.
+[2024-09-14 19:08:02.439712] [error]: - : Error in opening root directory.
+[2024-09-14 19:08:02.440146] [error]: - : Root directory loading failed: path not found.
+[2024-09-14 19:08:02.440269] [info]: - : Completly created endpoind at port 0
+[2024-09-14 19:08:02.440344] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 0

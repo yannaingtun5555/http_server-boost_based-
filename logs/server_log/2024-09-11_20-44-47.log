@@ -1,0 +1,28 @@
+[2024-09-11 20:44:47.236346] [info]: - : Attempting to open configuration file
+[2024-09-11 20:44:47.236507] [info]: - : The root directory is opened at /var/www/html
+[2024-09-11 20:44:47.236553] [info]: - : Configuration file opened successfully.
+[2024-09-11 20:44:47.236677] [info]: - : Completly created endpoind at port 8000
+[2024-09-11 20:44:47.236704] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 8000
+[2024-09-11 20:44:59.122144] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debiafn.html
+[2024-09-11 20:44:59.128165] [info]: 127.0.0.1 : User is response with 404:/html/index.nginx-debiafn.html
+[2024-09-11 20:44:59.128239] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:45:04.561641] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 20:45:04.561880] [info]: 127.0.0.1 : User is response with 404:/html/index.nginx-debian.html
+[2024-09-11 20:45:04.561972] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:45:08.408641] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 20:45:08.408780] [info]: 127.0.0.1 : User is response with 404:/html/index.nginx-debian.html
+[2024-09-11 20:45:08.408967] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:45:32.048261] [info]: 127.0.0.1 : Client  requested: /html/index.html
+[2024-09-11 20:45:32.048486] [info]: 127.0.0.1 : User is response with 404:/html/index.html
+[2024-09-11 20:45:32.048530] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:45:42.530211] [info]: 127.0.0.1 : Client  requested: /index.html
+[2024-09-11 20:45:42.544967] [info]: 127.0.0.1 : Client  requested: /index.html
+[2024-09-11 20:45:42.559428] [info]: 127.0.0.1 : Client  requested: /index.html
+[2024-09-11 20:45:42.559716] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:45:42.652042] [info]: 127.0.0.1 : User is response with 404:/icons/openlogo-75.png
+[2024-09-11 20:45:42.652161] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:45:42.652256] [info]: 127.0.0.1 : Client  requested: /icons/openlogo-75.png
+[2024-09-11 20:45:46.426350] [info]: 127.0.0.1 : Client  requested: /index2.html
+[2024-09-11 20:45:46.445447] [info]: 127.0.0.1 : Client  requested: /index2.html
+[2024-09-11 20:45:46.445616] [info]: 127.0.0.1 : User is response with 404:/index2.html
+[2024-09-11 20:45:46.445676] [info]: 127.0.0.1 : Response sent for client

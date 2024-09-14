@@ -1,0 +1,211 @@
+
+[2024-09-03 02:03:07] :Server Start:
+[2024-09-03 02:03:07] [ERROR] this is testing error
+
+[2024-09-03 02:03:20] :Server Start:
+[2024-09-03 02:03:20] [ERROR] this is testing error
+
+[2024-09-03 02:03:29] :Server Start:
+[2024-09-03 02:03:29] [ERROR] this is testing error
+
+[2024-09-03 02:16:37] :Server Start:
+[2024-09-03 02:16:37] [ERROR] this is testing error
+
+[2024-09-03 02:18:49] :Server Start:
+[2024-09-03 02:18:49] [ERROR] this is testing error
+
+[2024-09-03 02:25:30] :Server Start:
+[2024-09-03 02:25:30] [ERROR] this is testing error
+
+[2024-09-03 02:25:47] :Server Start:
+[2024-09-03 02:25:47] [ERROR] this is testing error
+[2024-09-03 02:25:47] [ERROR] Error binding acceptor: : Address already in use
+
+[2024-09-03 02:26:49] :Server Start:
+[2024-09-03 02:26:49] [ERROR] this is testing error
+
+[2024-09-03 02:27:16] :Server Start:
+[2024-09-03 02:27:16] [ERROR] this is testing error
+
+[2024-09-03 02:27:36] :Server Start:
+[2024-09-03 02:27:36] [ERROR] this is testing error
+
+[2024-09-03 02:29:17] :Server Start:
+[2024-09-03 02:29:17] [ERROR] this is testing error
+[2024-09-03 02:29:17] [ERROR] Error binding acceptor: : Address already in use
+
+[2024-09-03 02:29:31] :Server Start:
+[2024-09-03 02:29:31] [ERROR] this is testing error
+
+[2024-09-03 02:29:45] :Server Start:
+[2024-09-03 02:29:45] [ERROR] this is testing error
+
+[2024-09-03 02:31:56] :Server Start:
+[2024-09-03 02:31:56] [ERROR] this is testing error
+
+[2024-09-03 02:32:34] :Server Start:
+[2024-09-03 02:32:34] [ERROR] this is testing error
+
+[2024-09-03 02:34:49] :Server Start:
+[2024-09-03 02:34:49] [ERROR] this is testing error
+
+[2024-09-08 16:40:43] :Server Start:
+[2024-09-08 16:40:43] [ERROR] this is testing error
+
+[2024-09-09 10:06:51] :Server Start:
+[2024-09-09 10:06:51] [ERROR] this is testing error
+
+[2024-09-09 22:45:58] :Server Start:
+[2024-09-09 22:45:58] [ERROR] this is testing error
+
+[2024-09-09 22:46:37] :Server Start:
+[2024-09-09 22:46:37] [ERROR] this is testing error
+
+[2024-09-10 20:15:11] :Server Start:
+[2024-09-10 20:15:11] [ERROR] this is testing error
+
+[2024-09-10 20:16:48] :Server Start:
+[2024-09-10 20:16:48] [ERROR] this is testing error
+[2024-09-10 20:16:48] [ERROR] Error binding acceptor: : Address already in use
+
+[2024-09-10 20:20:05] :Server Start:
+[2024-09-10 20:20:05] [ERROR] this is testing error
+
+[2024-09-10 20:20:53] :Server Start:
+[2024-09-10 20:20:53] [ERROR] this is testing error
+
+[2024-09-10 20:21:11] :Server Start:
+[2024-09-10 20:21:11] [ERROR] this is testing error
+
+[2024-09-10 20:22:49] :Server Start:
+[2024-09-10 20:22:49] [ERROR] this is testing error
+
+[2024-09-10 20:40:49] :Server Start:
+[2024-09-10 20:40:49] [ERROR] this is testing error
+
+[2024-09-10 20:42:46] :Server Start:
+
+[2024-09-10 20:43:51] :Server Start:
+[2024-09-10 20:43:51] [ERROR] this is testing error
+
+[2024-09-10 20:47:31] :Server Start:
+[2024-09-10 20:47:31] [ERROR] this is testing error
+
+[2024-09-10 20:49:34] :Server Start:
+[2024-09-10 20:49:34] [ERROR] this is testing error
+
+[2024-09-10 20:50:20] :Server Start:
+
+[2024-09-10 20:56:16] :Server Start:
+[2024-09-10 20:56:16] [ERROR] this is testing error
+
+[2024-09-10 20:57:21] :Server Start:
+[2024-09-10 20:57:21] [ERROR] this is testing error
+
+[2024-09-10 21:00:02] :Server Start:
+[2024-09-10 21:00:02] [ERROR] this is testing error
+
+[2024-09-10 21:10:50] :Server Start:
+[2024-09-10 21:10:50] [ERROR] this is testing error
+
+[2024-09-10 21:10:56] :Server Start:
+[2024-09-10 21:10:56] [ERROR] this is testing error
+
+[2024-09-10 21:13:40] :Server Start:
+[2024-09-10 21:13:40] [ERROR] this is testing error
+
+[2024-09-10 21:14:04] :Server Start:
+[2024-09-10 21:14:04] [ERROR] this is testing error
+
+[2024-09-10 21:15:45] :Server Start:
+[2024-09-10 21:15:46] [ERROR] this is testing error
+
+[2024-09-10 21:17:10] :Server Start:
+[2024-09-10 21:17:10] [ERROR] this is testing error
+
+[2024-09-10 21:17:41] :Server Start:
+[2024-09-10 21:17:41] [ERROR] this is testing error
+
+[2024-09-10 21:17:49] :Server Start:
+[2024-09-10 21:17:49] [ERROR] this is testing error
+
+[2024-09-10 21:26:22] :Server Start:
+[2024-09-10 21:26:22] [ERROR] this is testing error
+
+[2024-09-10 21:29:38] :Server Start:
+[2024-09-10 21:29:38] [ERROR] this is testing error
+
+[2024-09-10 21:30:11] :Server Start:
+[2024-09-10 21:30:11] [ERROR] this is testing error
+
+[2024-09-10 21:32:52] :Server Start:
+[2024-09-10 21:32:52] [ERROR] this is testing error
+
+[2024-09-10 21:33:49] :Server Start:
+[2024-09-10 21:33:49] [ERROR] this is testing error
+
+[2024-09-10 21:36:20] :Server Start:
+[2024-09-10 21:36:20] [ERROR] this is testing error
+
+[2024-09-11 13:46:20] :Server Start:
+[2024-09-11 13:46:20] [ERROR] this is testing error
+
+[2024-09-11 13:47:31] :Server Start:
+[2024-09-11 13:47:31] [ERROR] this is testing error
+
+[2024-09-11 14:23:47] :Server Start:
+[2024-09-11 14:23:47] [ERROR] this is testing error
+
+[2024-09-11 14:25:05] :Server Start:
+[2024-09-11 14:25:05] [ERROR] this is testing error
+
+[2024-09-11 14:30:49] :Server Start:
+[2024-09-11 14:30:49] [ERROR] this is testing error
+
+[2024-09-11 20:36:39] :Server Start:
+[2024-09-11 20:36:39] [ERROR] this is testing error
+
+[2024-09-11 20:38:22] :Server Start:
+[2024-09-11 20:38:22] [ERROR] this is testing error
+
+[2024-09-11 20:41:02] :Server Start:
+[2024-09-11 20:41:02] [ERROR] this is testing error
+
+[2024-09-11 20:44:47] :Server Start:
+[2024-09-11 20:44:47] [ERROR] this is testing error
+
+[2024-09-11 20:46:05] :Server Start:
+[2024-09-11 20:46:05] [ERROR] this is testing error
+
+[2024-09-11 20:46:18] :Server Start:
+[2024-09-11 20:46:18] [ERROR] this is testing error
+
+[2024-09-11 20:47:28] :Server Start:
+[2024-09-11 20:47:28] [ERROR] this is testing error
+
+[2024-09-14 19:08:02] :Server Start:
+[2024-09-14 19:08:02] [ERROR] this is testing error
+[2024-09-14 19:08:02] [WARNING] Error occurred in opening configuration file
+[2024-09-14 19:08:02] [ERROR] Root directory loading failed: path not found!
+
+[2024-09-14 19:08:58] :Server Start:
+[2024-09-14 19:08:58] [ERROR] this is testing error
+[2024-09-14 19:08:58] [ERROR] Error binding acceptor: : Address already in use
+
+[2024-09-14 19:10:43] :Server Start:
+[2024-09-14 19:10:43] [ERROR] this is testing error
+
+[2024-09-14 19:21:02] :Server Start:
+[2024-09-14 19:21:02] [ERROR] this is testing error
+
+[2024-09-14 19:56:09] :Server Start:
+[2024-09-14 19:56:09] [ERROR] this is testing error
+
+[2024-09-14 19:57:56] :Server Start:
+[2024-09-14 19:57:56] [ERROR] this is testing error
+
+[2024-09-14 20:06:41] :Server Start:
+[2024-09-14 20:06:41] [ERROR] this is testing error
+
+[2024-09-14 20:07:56] :Server Start:
+[2024-09-14 20:07:56] [ERROR] this is testing error

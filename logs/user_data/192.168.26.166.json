@@ -1,0 +1,11 @@
+{
+	"connection_count" : 4,
+	"connections" : 
+	[
+		"2024-08-28 21:49:48\nTarget: /html_test/r1.html\nJSON Body: \n",
+		"2024-08-28 21:49:48\nTarget: /html_test/r1.css\nJSON Body: \n",
+		"2024-08-28 21:49:48\nTarget: /html_test/r1.js\nJSON Body: \n",
+		"2024-08-28 21:49:48\nTarget: /favicon.ico\nJSON Body: \n"
+	],
+	"user_agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+}

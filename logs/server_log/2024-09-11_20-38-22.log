@@ -1,0 +1,29 @@
+[2024-09-11 20:38:22.659235] [info]: - : Attempting to open configuration file
+[2024-09-11 20:38:22.659413] [info]: - : Configuration file opened successfully.
+[2024-09-11 20:38:22.659509] [info]: - : The root directory is opened at /var/www
+[2024-09-11 20:38:22.659561] [info]: - : Completly created endpoind at port 8000
+[2024-09-11 20:38:22.659615] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 8000
+[2024-09-11 20:38:34.355947] [info]: 127.0.0.1 : Client  requested: /html/main.cpp
+[2024-09-11 20:38:34.372566] [info]: 127.0.0.1 : Client  requested: /html/main.cpp
+[2024-09-11 20:38:34.372608] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 20:38:34.372708] [info]: 127.0.0.1 : User is response with 404:/html/main.cpp
+[2024-09-11 20:38:34.372786] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:38:51.624236] [info]: 127.0.0.1 : User is response with 404:/html/MYPO/index.html
+[2024-09-11 20:38:51.624461] [info]: 127.0.0.1 : Client  requested: /html/MYPO/index.html
+[2024-09-11 20:38:51.624518] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 20:38:51.624554] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:39:32.215205] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 20:39:32.216079] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:39:39.336048] [info]: 127.0.0.1 : Client  requested: /html/index.html
+[2024-09-11 20:39:39.337079] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:39:39.404581] [info]: 127.0.0.1 : Client  requested: /icons/openlogo-75.png
+[2024-09-11 20:39:39.421438] [info]: 127.0.0.1 : Client  requested: /icons/openlogo-75.png
+[2024-09-11 20:39:39.439837] [info]: 127.0.0.1 : Client  requested: /icons/openlogo-75.png
+[2024-09-11 20:39:39.463066] [info]: 127.0.0.1 : User is response with 404:/icons/openlogo-75.png
+[2024-09-11 20:39:39.463127] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:39:39.463585] [info]: 127.0.0.1 : Client  requested: /icons/openlogo-75.png
+[2024-09-11 20:39:39.463634] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 20:39:50.198880] [info]: 127.0.0.1 : Client  requested: /html/index3/html
+[2024-09-11 20:39:50.199098] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 20:39:50.199259] [info]: 127.0.0.1 : User is response with 404:/html/index3/html
+[2024-09-11 20:39:50.199353] [info]: 127.0.0.1 : Response sent for client

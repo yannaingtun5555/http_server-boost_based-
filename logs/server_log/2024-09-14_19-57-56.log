@@ -1,0 +1,149 @@
+[2024-09-14 19:57:56.379795] [info]: - : Attempting to open configuration file
+[2024-09-14 19:57:56.380072] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 8000
+[2024-09-14 19:57:56.380116] [info]: - : The root directory is opened at /var/www/html
+[2024-09-14 19:57:56.380169] [info]: - : Completly created endpoind at port 8000
+[2024-09-14 19:57:56.380210] [info]: - : Configuration file opened successfully.
+[2024-09-14 19:58:11.769974] [info]: 127.0.0.1 : Client  requested: /MYPO/index.html
+[2024-09-14 19:58:11.770226] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.839240] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.854665] [info]: 127.0.0.1 : Client  requested: /MYPO/img/shopbag.svg
+[2024-09-14 19:58:11.854970] [info]: 127.0.0.1 : Client  requested: /MYPO/products.js
+[2024-09-14 19:58:11.855230] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.869391] [info]: 127.0.0.1 : Client  requested: /MYPO/addtocart.js
+[2024-09-14 19:58:11.869600] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.881553] [info]: 127.0.0.1 : Client  requested: /MYPO/css/style.css
+[2024-09-14 19:58:11.881747] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.894643] [info]: 127.0.0.1 : Client  requested: /MYPO/css/index.css
+[2024-09-14 19:58:11.894889] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.910587] [info]: 127.0.0.1 : Client  requested: /MYPO/img/features/f1.png
+[2024-09-14 19:58:11.925509] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.926360] [info]: 127.0.0.1 : Client  requested: /MYPO/img/features/f2.png
+[2024-09-14 19:58:11.926607] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.954876] [info]: 127.0.0.1 : Client  requested: /MYPO/img/banner/b2.jpg
+[2024-09-14 19:58:11.978274] [info]: 127.0.0.1 : Client  requested: /MYPO/img/features/f4.png
+[2024-09-14 19:58:11.978515] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.978571] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.979229] [info]: 127.0.0.1 : Client  requested: /MYPO/img/banner/b16.jpg
+[2024-09-14 19:58:11.979418] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:11.995840] [info]: 127.0.0.1 : Client  requested: /MYPO/img/banner/b1.jpg
+[2024-09-14 19:58:12.011306] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:12.030523] [info]: 127.0.0.1 : Client  requested: /MYPO/img/head.png
+[2024-09-14 19:58:12.030661] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:12.030685] [info]: 127.0.0.1 : Client  requested: /MYPO/img/button.png
+[2024-09-14 19:58:12.050621] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:12.051307] [info]: 127.0.0.1 : Client  requested: /MYPO/img/banner/m1.jpg
+[2024-09-14 19:58:12.051527] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:12.072614] [info]: 127.0.0.1 : Client  requested: /MYPO/img/banner/h1.jpg
+[2024-09-14 19:58:12.090229] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:12.090633] [info]: 127.0.0.1 : Client  requested: /img/banner/b14.png
+[2024-09-14 19:58:12.090678] [info]: 127.0.0.1 : User is response with 404:/img/banner/b14.png
+[2024-09-14 19:58:12.090716] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:15.957706] [info]: 127.0.0.1 : Client  requested: /MYPO/shop.html
+[2024-09-14 19:58:15.958379] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.056457] [info]: 127.0.0.1 : Client  requested: /MYPO/addtocart.js
+[2024-09-14 19:58:16.056710] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.067729] [info]: 127.0.0.1 : Client  requested: /MYPO/products.js
+[2024-09-14 19:58:16.068291] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.095212] [info]: 127.0.0.1 : Client  requested: /MYPO/app.js
+[2024-09-14 19:58:16.095290] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.095441] [info]: 127.0.0.1 : Client  requested: /MYPO/img/shopbag.svg
+[2024-09-14 19:58:16.107282] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.107464] [info]: 127.0.0.1 : Client  requested: /MYPO/css/style.css
+[2024-09-14 19:58:16.107653] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.120499] [info]: 127.0.0.1 : Client  requested: /MYPO/css/index.css
+[2024-09-14 19:58:16.120740] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.134184] [info]: 127.0.0.1 : Client  requested: /MYPO/css/ydncss.css
+[2024-09-14 19:58:16.134372] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.154322] [info]: 127.0.0.1 : Client  requested: /img/banner/b14.png
+[2024-09-14 19:58:16.154452] [info]: 127.0.0.1 : User is response with 404:/img/banner/b14.png
+[2024-09-14 19:58:16.154613] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.193921] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/dr1.jpg
+[2024-09-14 19:58:16.194453] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.222167] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/dr7.jpg
+[2024-09-14 19:58:16.222301] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.222434] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/d4.jpg
+[2024-09-14 19:58:16.241747] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.242178] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.242228] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/e1.jpg
+[2024-09-14 19:58:16.262404] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/sw3.jpg
+[2024-09-14 19:58:16.263839] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.288490] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/s24.jpg
+[2024-09-14 19:58:16.288669] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.322078] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p18.jpg
+[2024-09-14 19:58:16.341375] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/j4.jpg
+[2024-09-14 19:58:16.356906] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.357108] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/e4.jpg
+[2024-09-14 19:58:16.357407] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/j13.jpg
+[2024-09-14 19:58:16.357727] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.357762] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.358021] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.391777] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.391855] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p27.jpg
+[2024-09-14 19:58:16.407457] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p4.jpg
+[2024-09-14 19:58:16.407516] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.407889] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p28.jpg
+[2024-09-14 19:58:16.408077] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.424225] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/b3.jpg
+[2024-09-14 19:58:16.424398] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.444085] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/e13.jpg
+[2024-09-14 19:58:16.462453] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.463114] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/b2.jpg
+[2024-09-14 19:58:16.463336] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.491646] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.491703] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/b4.jpg
+[2024-09-14 19:58:16.512476] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/e17.jpg
+[2024-09-14 19:58:16.512875] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.525048] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p29.jpg
+[2024-09-14 19:58:16.525272] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.556727] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p3.jpg
+[2024-09-14 19:58:16.556788] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.556910] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/j25.jpg
+[2024-09-14 19:58:16.572089] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.583288] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p8.jpg
+[2024-09-14 19:58:16.583350] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.595819] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/s26.jpg
+[2024-09-14 19:58:16.595987] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.596698] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.596756] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/s2.jpg
+[2024-09-14 19:58:16.614485] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p32.jpg
+[2024-09-14 19:58:16.614833] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.646454] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p16.jpg
+[2024-09-14 19:58:16.646719] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.663215] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/b40.jpg
+[2024-09-14 19:58:16.677115] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.677184] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/c5.jpg
+[2024-09-14 19:58:16.677217] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.694854] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/c10.jpg
+[2024-09-14 19:58:16.695034] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.695122] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.695547] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/j7.jpg
+[2024-09-14 19:58:16.717616] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/j9.jpg
+[2024-09-14 19:58:16.718313] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.750079] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/j8.jpg
+[2024-09-14 19:58:16.750277] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.766880] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p20.jpg
+[2024-09-14 19:58:16.780325] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.780665] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/c18.jpg
+[2024-09-14 19:58:16.780928] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.791677] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/s15.jpg
+[2024-09-14 19:58:16.806793] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.806862] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/c25.jpg
+[2024-09-14 19:58:16.806896] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.807031] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p39.jpg
+[2024-09-14 19:58:16.807229] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.821130] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/c30.jpg
+[2024-09-14 19:58:16.821339] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.836518] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/dr3.jpg
+[2024-09-14 19:58:16.849613] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.850025] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/d3.jpg
+[2024-09-14 19:58:16.850259] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.879478] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/j30.jpg
+[2024-09-14 19:58:16.879842] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.880051] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p42.jpg
+[2024-09-14 19:58:16.880473] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.915306] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.915374] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/e19.jpg
+[2024-09-14 19:58:16.932600] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/p45.jpg
+[2024-09-14 19:58:16.932685] [info]: 127.0.0.1 : Response sent for client
+[2024-09-14 19:58:16.932919] [info]: 127.0.0.1 : Client  requested: /MYPO/img/newproduct/s16.jpg
+[2024-09-14 19:58:16.933271] [info]: 127.0.0.1 : Response sent for client

@@ -1,0 +1,14 @@
+{
+	"connection_count" : 7,
+	"connections" : 
+	[
+		"2024-08-28 21:48:45\nTarget: /html_test/r1.html\nJSON Body: \n",
+		"2024-08-28 21:48:45\nTarget: /html_test/r1.css\nJSON Body: \n",
+		"2024-08-28 21:48:45\nTarget: /html_test/r1.js\nJSON Body: \n",
+		"2024-08-28 21:48:45\nTarget: /favicon.ico\nJSON Body: \n",
+		"2024-08-28 21:51:19\nTarget: /html_test/r1.html\nJSON Body: \n",
+		"2024-08-28 21:51:19\nTarget: /html_test/r1.css\nJSON Body: \n",
+		"2024-08-28 21:51:19\nTarget: /html_test/r1.js\nJSON Body: \n"
+	],
+	"user_agent" : "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0"
+}

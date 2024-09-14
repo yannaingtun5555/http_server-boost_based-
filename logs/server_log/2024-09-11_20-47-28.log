@@ -1,0 +1,5 @@
+[2024-09-11 20:47:28.144422] [info]: - : Attempting to open configuration file
+[2024-09-11 20:47:28.144608] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 8000
+[2024-09-11 20:47:28.144648] [info]: - : Configuration file opened successfully.
+[2024-09-11 20:47:28.144701] [info]: - : The root directory is opened at /var/www/html
+[2024-09-11 20:47:28.144748] [info]: - : Completly created endpoind at port 8000

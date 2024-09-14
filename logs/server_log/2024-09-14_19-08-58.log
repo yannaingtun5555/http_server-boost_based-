@@ -1,0 +1,5 @@
+[2024-09-14 19:08:58.221050] [info]: - : Attempting to open configuration file
+[2024-09-14 19:08:58.221252] [info]: - : Configuration file opened successfully.
+[2024-09-14 19:08:58.221332] [error]: - : Error at binding acceptor.
+[2024-09-14 19:08:58.221351] [info]: - : Completly created endpoind at port 8000
+[2024-09-14 19:08:58.221408] [info]: - : The root directory is opened at var/www

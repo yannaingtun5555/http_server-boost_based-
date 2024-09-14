@@ -1,0 +1,24 @@
+[2024-09-11 20:41:02.887094] [info]: - : Attempting to open configuration file
+[2024-09-11 20:41:02.887269] [info]: - : The root directory is opened at /var/www
+[2024-09-11 20:41:02.887315] [info]: - : Configuration file opened successfully.
+[2024-09-11 20:41:02.887414] [info]: - : Completly created endpoind at port 8000
+[2024-09-11 20:41:02.887534] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 8000
+[2024-09-11 20:41:24.528651] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 20:41:24.528850] [info]: 127.0.0.1 : Client  requested: /html/index3/html
+[2024-09-11 20:41:24.528895] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:41:24.528932] [info]: 127.0.0.1 : User is response with 404:/html/index3/html
+[2024-09-11 20:41:32.234708] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 20:41:32.249170] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 20:41:32.265943] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 20:41:32.278829] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 20:41:32.294295] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 20:41:32.310149] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 20:41:32.310436] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:41:37.511103] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debiafn.html
+[2024-09-11 20:41:37.524267] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debiafn.html
+[2024-09-11 20:41:37.538434] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debiafn.html
+[2024-09-11 20:41:37.550535] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debiafn.html
+[2024-09-11 20:41:37.566729] [info]: 127.0.0.1 : User is response with 404:/html/index.nginx-debiafn.html
+[2024-09-11 20:41:37.566729] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 20:41:37.566796] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:41:37.566886] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debiafn.html

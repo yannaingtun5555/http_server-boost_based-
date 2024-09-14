@@ -1,0 +1,31 @@
+[2024-09-11 14:30:49.799142] [info]: - : Attempting to open configuration file
+[2024-09-11 14:30:49.799377] [info]: - : The root directory is opened at /var/www
+[2024-09-11 14:30:49.799426] [info]: - : Completly created endpoind at port 8000
+[2024-09-11 14:30:49.799455] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 8000
+[2024-09-11 14:30:49.799556] [info]: - : Configuration file opened successfully.
+[2024-09-11 14:30:56.342166] [info]: 127.0.0.1 : Client  requested: /main.html
+[2024-09-11 14:30:56.342167] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 14:30:56.342344] [info]: 127.0.0.1 : User is response with 404:/main.html
+[2024-09-11 14:30:56.342421] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 14:31:05.207429] [info]: 127.0.0.1 : Client  requested: /plane.jpg
+[2024-09-11 14:31:05.207485] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 14:31:05.207654] [info]: 127.0.0.1 : User is response with 404:/plane.jpg
+[2024-09-11 14:31:05.207896] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 14:32:01.052071] [info]: 127.0.0.1 : Client  requested: /html/index.html
+[2024-09-11 14:32:01.071369] [info]: 127.0.0.1 : Client  requested: /html/index.html
+[2024-09-11 14:32:01.083024] [info]: 127.0.0.1 : Client  requested: /html/index.html
+[2024-09-11 14:32:01.098366] [info]: 127.0.0.1 : Client  requested: /html/index.html
+[2024-09-11 14:32:01.101925] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 14:32:01.174125] [info]: 127.0.0.1 : Client  requested: /icons/openlogo-75.png
+[2024-09-11 14:32:01.174180] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 14:32:01.174310] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 14:32:01.174351] [info]: 127.0.0.1 : User is response with 404:/icons/openlogo-75.png
+[2024-09-11 14:32:39.792611] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 14:32:39.812603] [info]: 127.0.0.1 : Client  requested: /html/index.nginx-debian.html
+[2024-09-11 14:32:39.813252] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 14:33:16.367619] [info]: 127.0.0.1 : Client  requested: /html/mnn.html
+[2024-09-11 14:33:16.381799] [info]: 127.0.0.1 : Client  requested: /html/mnn.html
+[2024-09-11 14:33:16.396315] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 14:33:16.396315] [info]: 127.0.0.1 : Client  requested: /html/mnn.html
+[2024-09-11 14:33:16.396433] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 14:33:16.396464] [info]: 127.0.0.1 : User is response with 404:/html/mnn.html

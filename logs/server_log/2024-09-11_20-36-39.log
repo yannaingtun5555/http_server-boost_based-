@@ -1,0 +1,15 @@
+[2024-09-11 20:36:39.479160] [info]: - : Attempting to open configuration file
+[2024-09-11 20:36:39.479339] [info]: - : Configuration file opened successfully.
+[2024-09-11 20:36:39.479376] [info]: - : The root directory is opened at /var/www
+[2024-09-11 20:36:39.479401] [info]: - : Completly created endpoind at port 8000
+[2024-09-11 20:36:39.479504] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 8000
+[2024-09-11 20:36:53.727793] [info]: 127.0.0.1 : Client  requested: /main.cpp
+[2024-09-11 20:36:53.728286] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 20:36:53.728382] [info]: 127.0.0.1 : User is response with 404:/main.cpp
+[2024-09-11 20:36:53.728465] [info]: 127.0.0.1 : Response sent for client
+[2024-09-11 20:37:09.017226] [info]: 127.0.0.1 : Client  requested: /html/main.cpp
+[2024-09-11 20:37:09.032391] [info]: 127.0.0.1 : Client  requested: /html/main.cpp
+[2024-09-11 20:37:09.048671] [error]: - : Failed to open file: /error/404.html
+[2024-09-11 20:37:09.048671] [info]: 127.0.0.1 : Client  requested: /html/main.cpp
+[2024-09-11 20:37:09.048775] [info]: 127.0.0.1 : User is response with 404:/html/main.cpp
+[2024-09-11 20:37:09.048824] [info]: 127.0.0.1 : Response sent for client

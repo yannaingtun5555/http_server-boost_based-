@@ -1,0 +1,7 @@
+[2024-09-11 14:25:05.504085] [info]: - : The root directory is opened at var/www
+[2024-09-11 14:25:05.504248] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 8000
+[2024-09-11 14:25:05.504292] [info]: - : Configuration file opened successfully.
+[2024-09-11 14:25:05.504389] [info]: - : Completly created endpoind at port 8000
+[2024-09-11 14:25:05.504436] [info]: - : Attempting to open configuration file
+[2024-09-11 14:25:22.158695] [info]: 127.0.0.1 : Client  requested: /main.html
+[2024-09-11 14:25:22.159117] [info]: 127.0.0.1 : Response sent for client
