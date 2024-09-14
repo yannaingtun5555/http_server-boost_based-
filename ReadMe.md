@@ -31,7 +31,7 @@ A lightweight and modular HTTP server designed to handle requests and serve file
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/http-server.git
+    git clone https://github.com/yannaingtun5555/http_server-boost_based-.git
     cd http-server
     ```
 
@@ -90,7 +90,12 @@ The project links Boost libraries and `jsoncpp` statically, so users don't need 
      ```bash
      ./http_server.sh log
      ```
+    - All if the log files are exists at HTTP_Server/logs
 
+     ```bash
+     cd HTTP_Server/logs/server_log  #To view the server logs information
+     cd HTTP_Server/logs/user_data   #To view the connected clients information
+     ```
 
 ## Configuration
 
@@ -99,7 +104,6 @@ The server reads configurations from a `config.json` file. Key fields include:
 - `host`: The IP address the server will bind to.
 - `port`: The port number the server will listen on.
 - `root_dir`: The directory from which files will be served.
-- `default_file`: The default file served if no specific file is requested if default isn't set,404 file will be served.
-- `connection_limit`: Maximum number of simultaneous connections.
+
 
 
